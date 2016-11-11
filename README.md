@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+im currently walking through the guide
+
+i prefer moon tacos as well
